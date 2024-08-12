@@ -2,7 +2,6 @@
   <div id="app">
     <h1>Bulent Buyukkahraman</h1>
     <h2>Hello World</h2>
-    <h2>Welcome to Real World</h2>
   </div>
 </template>
 
